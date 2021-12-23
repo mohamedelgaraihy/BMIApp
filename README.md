@@ -1,6 +1,6 @@
-# bmi_app2
+# bmi_app
 
-A new Flutter project.
+A new Flutter/dart Project which calc BMI.
 
 ## Getting Started
 
